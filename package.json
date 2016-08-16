@@ -1,0 +1,25 @@
+{
+  "name": "node-ages",
+  "version": "0.1.0",
+  "description": "Node app test for AGES",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrebotelhof/nodejs.git"
+  },
+  "keywords": [
+    "AGES"
+  ],
+  "author": "Gabriel Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrebotelhof/nodejs/issues"
+  },
+  "homepage": "https://github.com/andrebotelhof/nodejs#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
