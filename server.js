@@ -7,5 +7,5 @@ app.listen(port, function() {
 });
 
 app.get('/', function(req, res) {
-    res.end('Tá funcionando');
+    res.end('Testanto deploy automático');
 });
